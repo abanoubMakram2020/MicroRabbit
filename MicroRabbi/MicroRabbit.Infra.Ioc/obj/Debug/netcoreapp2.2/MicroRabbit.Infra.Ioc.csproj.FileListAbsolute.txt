@@ -1,0 +1,9 @@
+C:\Users\Arezk\source\repos\MicroRabbit\MicroRabbi\MicroRabbit.Infra.Ioc\bin\Debug\netcoreapp2.2\MicroRabbit.Infra.Ioc.deps.json
+C:\Users\Arezk\source\repos\MicroRabbit\MicroRabbi\MicroRabbit.Infra.Ioc\bin\Debug\netcoreapp2.2\MicroRabbit.Infra.Ioc.dll
+C:\Users\Arezk\source\repos\MicroRabbit\MicroRabbi\MicroRabbit.Infra.Ioc\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.Ioc.csprojAssemblyReference.cache
+C:\Users\Arezk\source\repos\MicroRabbit\MicroRabbi\MicroRabbit.Infra.Ioc\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.Ioc.csproj.CoreCompileInputs.cache
+C:\Users\Arezk\source\repos\MicroRabbit\MicroRabbi\MicroRabbit.Infra.Ioc\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.Ioc.AssemblyInfoInputs.cache
+C:\Users\Arezk\source\repos\MicroRabbit\MicroRabbi\MicroRabbit.Infra.Ioc\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.Ioc.AssemblyInfo.cs
+C:\Users\Arezk\source\repos\MicroRabbit\MicroRabbi\MicroRabbit.Infra.Ioc\bin\Debug\netcoreapp2.2\MicroRabbit.Infra.Ioc.pdb
+C:\Users\Arezk\source\repos\MicroRabbit\MicroRabbi\MicroRabbit.Infra.Ioc\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.Ioc.dll
+C:\Users\Arezk\source\repos\MicroRabbit\MicroRabbi\MicroRabbit.Infra.Ioc\obj\Debug\netcoreapp2.2\MicroRabbit.Infra.Ioc.pdb
