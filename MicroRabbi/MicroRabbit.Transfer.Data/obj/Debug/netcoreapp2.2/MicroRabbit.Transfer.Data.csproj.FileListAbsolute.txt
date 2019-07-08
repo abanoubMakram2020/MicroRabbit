@@ -1,0 +1,9 @@
+C:\Users\Arezk\source\repos\MicroRabbit\MicroRabbi\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.deps.json
+C:\Users\Arezk\source\repos\MicroRabbit\MicroRabbi\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.dll
+C:\Users\Arezk\source\repos\MicroRabbit\MicroRabbi\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.pdb
+C:\Users\Arezk\source\repos\MicroRabbit\MicroRabbi\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.csprojAssemblyReference.cache
+C:\Users\Arezk\source\repos\MicroRabbit\MicroRabbi\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.csproj.CoreCompileInputs.cache
+C:\Users\Arezk\source\repos\MicroRabbit\MicroRabbi\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.AssemblyInfoInputs.cache
+C:\Users\Arezk\source\repos\MicroRabbit\MicroRabbi\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.AssemblyInfo.cs
+C:\Users\Arezk\source\repos\MicroRabbit\MicroRabbi\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.dll
+C:\Users\Arezk\source\repos\MicroRabbit\MicroRabbi\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.pdb

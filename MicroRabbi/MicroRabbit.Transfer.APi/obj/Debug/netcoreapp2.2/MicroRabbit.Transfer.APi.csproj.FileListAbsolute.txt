@@ -1,0 +1,14 @@
+C:\Users\Arezk\source\repos\MicroRabbit\MicroRabbi\MicroRabbit.Transfer.APi\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.APi.deps.json
+C:\Users\Arezk\source\repos\MicroRabbit\MicroRabbi\MicroRabbit.Transfer.APi\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.APi.runtimeconfig.json
+C:\Users\Arezk\source\repos\MicroRabbit\MicroRabbi\MicroRabbit.Transfer.APi\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.APi.runtimeconfig.dev.json
+C:\Users\Arezk\source\repos\MicroRabbit\MicroRabbi\MicroRabbit.Transfer.APi\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.APi.dll
+C:\Users\Arezk\source\repos\MicroRabbit\MicroRabbi\MicroRabbit.Transfer.APi\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.APi.pdb
+C:\Users\Arezk\source\repos\MicroRabbit\MicroRabbi\MicroRabbit.Transfer.APi\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.APi.csprojAssemblyReference.cache
+C:\Users\Arezk\source\repos\MicroRabbit\MicroRabbi\MicroRabbit.Transfer.APi\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.APi.csproj.CoreCompileInputs.cache
+C:\Users\Arezk\source\repos\MicroRabbit\MicroRabbi\MicroRabbit.Transfer.APi\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.APi.RazorAssemblyInfo.cache
+C:\Users\Arezk\source\repos\MicroRabbit\MicroRabbi\MicroRabbit.Transfer.APi\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.APi.RazorAssemblyInfo.cs
+C:\Users\Arezk\source\repos\MicroRabbit\MicroRabbi\MicroRabbit.Transfer.APi\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.APi.AssemblyInfoInputs.cache
+C:\Users\Arezk\source\repos\MicroRabbit\MicroRabbi\MicroRabbit.Transfer.APi\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.APi.AssemblyInfo.cs
+C:\Users\Arezk\source\repos\MicroRabbit\MicroRabbi\MicroRabbit.Transfer.APi\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.APi.RazorTargetAssemblyInfo.cache
+C:\Users\Arezk\source\repos\MicroRabbit\MicroRabbi\MicroRabbit.Transfer.APi\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.APi.dll
+C:\Users\Arezk\source\repos\MicroRabbit\MicroRabbi\MicroRabbit.Transfer.APi\obj\Debug\netcoreapp2.2\MicroRabbit.Transfer.APi.pdb
