@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "36dfb09cb41086ee22203d99d346033840fffb38"
+    "signature": "629acba06b4c5dbf9609ee0ad62f5a0903fbaa04"
   },
   "compilationOptions": {},
   "targets": {
@@ -16,6 +16,14 @@
         },
         "runtime": {
           "MicroRabbit.Banking.Data.dll": {}
+        }
+      },
+      "MediatR/7.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/MediatR.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.0.0"
+          }
         }
       },
       "Microsoft.CSharp/4.5.0": {},
@@ -523,8 +531,19 @@
         }
       },
       "MicroRabbit.Banking.Domain/1.0.0": {
+        "dependencies": {
+          "MicroRabbit.Domain.Core": "1.0.0"
+        },
         "runtime": {
           "MicroRabbit.Banking.Domain.dll": {}
+        }
+      },
+      "MicroRabbit.Domain.Core/1.0.0": {
+        "dependencies": {
+          "MediatR": "7.0.0"
+        },
+        "runtime": {
+          "MicroRabbit.Domain.Core.dll": {}
         }
       }
     }
@@ -534,6 +553,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "MediatR/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sgfHxkBsmMlHOD564SnLqTvSbAuGlFiZfc6ybxBSI1wYV/2u+Y5TXtFoIhCISFg5/s/6aMvB338QC2JseHsjTA==",
+      "path": "mediatr/7.0.0",
+      "hashPath": "mediatr.7.0.0.nupkg.sha512"
     },
     "Microsoft.CSharp/4.5.0": {
       "type": "package",
@@ -928,6 +954,11 @@
       "hashPath": "system.threading.tasks.4.0.11.nupkg.sha512"
     },
     "MicroRabbit.Banking.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MicroRabbit.Domain.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
